@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		14C05167248542C800FF87D7 /* H4XoR News.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "H4XoR News.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		14C05167248542C800FF87D7 /* H4X0R News.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "H4X0R News.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		14C0516A248542C800FF87D7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		14C0516C248542C800FF87D7 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		14C0516E248542C800FF87D7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		14C05168248542C800FF87D7 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				14C05167248542C800FF87D7 /* H4XoR News.app */,
+				14C05167248542C800FF87D7 /* H4X0R News.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -78,9 +78,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		14C05166248542C800FF87D7 /* H4XoR News */ = {
+		14C05166248542C800FF87D7 /* H4X0R News */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 14C0517B248542C900FF87D7 /* Build configuration list for PBXNativeTarget "H4XoR News" */;
+			buildConfigurationList = 14C0517B248542C900FF87D7 /* Build configuration list for PBXNativeTarget "H4X0R News" */;
 			buildPhases = (
 				14C05163248542C800FF87D7 /* Sources */,
 				14C05164248542C800FF87D7 /* Frameworks */,
@@ -90,9 +90,9 @@
 			);
 			dependencies = (
 			);
-			name = "H4XoR News";
+			name = "H4X0R News";
 			productName = "H4XoR News";
-			productReference = 14C05167248542C800FF87D7 /* H4XoR News.app */;
+			productReference = 14C05167248542C800FF87D7 /* H4X0R News.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -110,7 +110,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 14C05162248542C800FF87D7 /* Build configuration list for PBXProject "H4XoR News" */;
+			buildConfigurationList = 14C05162248542C800FF87D7 /* Build configuration list for PBXProject "H4X0R News" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -123,7 +123,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				14C05166248542C800FF87D7 /* H4XoR News */,
+				14C05166248542C800FF87D7 /* H4X0R News */,
 			);
 		};
 /* End PBXProject section */
@@ -294,7 +294,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.fearanrigh.H4XoR-News";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "H4X0R News";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -314,7 +314,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.fearanrigh.H4XoR-News";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "H4X0R News";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -323,7 +323,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		14C05162248542C800FF87D7 /* Build configuration list for PBXProject "H4XoR News" */ = {
+		14C05162248542C800FF87D7 /* Build configuration list for PBXProject "H4X0R News" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				14C05179248542C900FF87D7 /* Debug */,
@@ -332,7 +332,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		14C0517B248542C900FF87D7 /* Build configuration list for PBXNativeTarget "H4XoR News" */ = {
+		14C0517B248542C900FF87D7 /* Build configuration list for PBXNativeTarget "H4X0R News" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				14C0517C248542C900FF87D7 /* Debug */,
